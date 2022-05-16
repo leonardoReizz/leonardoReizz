@@ -1,17 +1,20 @@
 
 <h1>😃 Olá</h2>
 Me chamo Leonardo Reis, tenho 20 anos, moro em Ouro Preto-MG, atualmente estou cursando Sistemas de Informação e enfase nos estudos para ser um Desenvolvedor Full-Stack.
+<br/>
+🌱 Sempre estudando e aprendendo.
+⚙️ Masterizando: REACT e PHP.
 
 
 <h1>📫 Contatos</h2>
 📧 Email: leonardoo.reis@hotmail.com
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> Linkedin: https://www.linkedin.com/in/leonardo-reis-022830233/
+<a herf="https://www.linkedin.com/in/leonardo-reis-022830233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 Skills:
 <Br/>
 
 <div>
-  <a href="https://youtube.com.br"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"><a/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="max-width: 100%;">
