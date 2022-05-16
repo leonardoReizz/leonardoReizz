@@ -11,7 +11,7 @@ Skills:
 <Br/>
 
 <div>
-  <a href="youtube.com.br"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"><a/>
+  <a href="https://youtube.com.br"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"><a/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="max-width: 100%;">
