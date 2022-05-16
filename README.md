@@ -1,12 +1,12 @@
 
 <h1>😃 Olá</h2>
-Me chamo Leonardo Reis, tenho 20 anos, moro em Ouro Preto-MG, atualmente estou cursando Sistemas de Informação e enfase nos estudos para ser um Desenvolvedor Full-Stack.
+Me chamo Leonardo Reis, tenho 20 anos, moro em Ouro Preto-MG, atualmente estou cursando Sistemas de Informação e enfase nos estudos para ser um Desenvolvedor Full-Stack.<br/>
 <br/>
-🌱 Sempre estudando e aprendendo.
+🌱 Sempre estudando e aprendendo.<br/>
 ⚙️ Masterizando: REACT e PHP.
 
 
-<h1>📫 Contatos</h2>
+<h1>📫 Contato</h2>
 📧 Email: leonardoo.reis@hotmail.com
 <a herf="https://www.linkedin.com/in/leonardo-reis-022830233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
