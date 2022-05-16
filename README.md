@@ -8,8 +8,8 @@ Me chamo Leonardo Reis, tenho 20 anos, moro em Ouro Preto-MG, atualmente estou c
 
 <h1>📫 Contato</h2>
 📧 Email: leonardoo.reis@hotmail.com <br/>
-<a href="https://www.linkedin.com/in/leonardo-reis-022830233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-
+<a href="https://www.linkedin.com/in/leonardo-reis-022830233/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<br/>
 Skills:
 <Br/>
 
