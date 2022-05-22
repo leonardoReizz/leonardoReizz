@@ -3,7 +3,7 @@
 Me chamo Leonardo Reis, tenho 20 anos, moro em Ouro Preto-MG, atualmente estou cursando Sistemas de Informação e enfase nos estudos para ser um Desenvolvedor Full-Stack.<br/>
 <br/>
 🌱 Sempre estudando e aprendendo.<br/>
-⚙️ Masterizando: REACT e PHP.
+⚙️ Masterizando: REACTJS e NODEJS.
 
 
 <h1>📫 Contato</h2>
