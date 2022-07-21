@@ -3,9 +3,9 @@
 Me chamo Leonardo Reis, tenho 20 anos, moro em Ouro Preto-MG, atualmente estou cursando Sistemas de Informação e enfase nos estudos para ser um Desenvolvedor Full-Stack.<br/>
 <br/>
 
-Tambem faço parte da @DevsFreeOrganization
+Tambem faço parte da @DevsFreeOrganization <br/>
 🌱 Sempre estudando e aprendendo.<br/>
-⚙️ Masterizando: REACTJS e NODEJS.
+⚙️ Masterizando: REACTJS e NODEJS. <br/>
 Conhecimentos em: ReactJS, Typescript, Nodejs, SOLID, express, MONGODB, POSTGRESQL, MYSQL
 
 
