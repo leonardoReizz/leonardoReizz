@@ -5,7 +5,7 @@ Me chamo Leonardo Reis, tenho 20 anos, moro em Ouro Preto-MG, atualmente estou c
 
 🌱 Sempre estudando e aprendendo.<br/>
 ⚙️ Masterizando: REACTJS e NODEJS. <br/>
-Conhecimentos em: ReactJS, Typescript, Nodejs, SOLID, express, MONGODB, POSTGRESQL, MYSQL
+Conhecimentos em: C#, React, Typescript, Node, MongoDB, POSTGRESQL, MYSQL
 
 
 <h1>📫 Contato</h2>
