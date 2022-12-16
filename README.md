@@ -1,6 +1,6 @@
 
 <h1>😃 Olá</h2>
-Me chamo Leonardo Reis, tenho 20 anos, moro em Ouro Preto-MG, atualmente estou cursando Sistemas de Informação e enfase nos estudos para ser um Desenvolvedor Full-Stack.<br/>
+Me chamo Leonardo Reis, tenho 21 anos, moro em Ouro Preto-MG, atualmente estou cursando Sistemas de Informação e enfase nos estudos para ser um Desenvolvedor Full-Stack.<br/>
 <br/>
 
 🌱 Sempre estudando e aprendendo.<br/>
