@@ -14,7 +14,11 @@ Conhecimentos:
 
 React
 Typescript
+Python
+Golang
 Node.js
 Express
 MongoDB
-MySQL
+Mysql
+PostregreSQL
+Redis
