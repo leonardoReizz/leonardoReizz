@@ -1,24 +1,40 @@
-👋 Olá! Sou o Leonardo Reis, um Desenvolvedor especializado em Typescript. Com 21 anos e raízes em Minas Gerais, sou um estudante entusiasmado de Sistemas de Informação, com o objetivo de me tornar um Desenvolvedor Full-Stack.
+# 👋 Olá! Eu sou o Leonardo Reis
 
-🌱 Estou constantemente em busca de novos conhecimentos e empenhado em aprimorar minhas habilidades. Ao longo dos últimos anos, venho adquirindo mais de um ano de experiência profissional, focado principalmente no desenvolvimento de APIs, microserviços e aplicações front-end.
+Sou Desenvolvedor Full-Stack com 3 anos de experiência em tecnologias modernas como **TypeScript, Node.js, React e Go**. Natural de Minas Gerais, atualmente curso **Sistemas de Informação**, com previsão de conclusão para 12/2025.
 
-💻 Tenho ampla experiência no desenvolvimento de APIs, especialmente utilizando tecnologias como Node.js com Express e Typescript. Além disso, estou familiarizado com a integração de bancos de dados, como MongoDB e MySQL, para garantir um armazenamento eficiente dos dados.
+Tenho atuado profissionalmente desde 2022, desenvolvendo **APIs escaláveis, microsserviços e aplicações web modernas**, focando em performance, manutenibilidade e boas práticas.
 
-🚀 Meu foco atual é me aperfeiçoar em React.js e Node.js, empregando essas tecnologias para criar aplicações web modernas e altamente eficazes.
+---
 
-🎓 Atualmente, estou dedicando meus estudos ao curso de Sistemas de Informação, que tem proporcionado uma sólida base em fundamentos de computação e ciência da informação, enriquecendo meu conhecimento em diversas áreas do desenvolvimento de software.
+## 🚀 Principais Tecnologias
 
-Convido você a explorar meus repositórios no GitHub para conhecer meus projetos e acompanhar meu crescimento como desenvolvedor. Estou sempre aberto a colaborações e animado com novas oportunidades para contribuir no mundo do desenvolvimento de software!
+- **Front-end**: React.js, TypeScript, Tailwind CSS, ShadCN, React Hook Form
+- **Back-end**: Node.js, Express, Go (Golang), Python
+- **Bancos de Dados**: MongoDB, MySQL, PostgreSQL, Redis
+- **DevOps / Ferramentas**: Docker, Git, GitHub Actions, Kubernetes (básico)
+- **Outros**: WebSockets, JWT, REST APIs, arquitetura em microsserviços, integrações com pagamentos (PIX)
 
-Conhecimentos:
+---
 
-React
-Typescript
-Python
-Golang
-Node.js
-Express
-MongoDB
-Mysql
-PostregreSQL
-Redis
+## 🌱 Em constante evolução
+
+Atualmente estou me aprofundando em:
+
+- Otimização de aplicações web com **React + Server Components**
+- Arquiteturas escaláveis com **Node.js** e **Golang**
+- Construção de dashboards e ferramentas técnicas para DevOps
+
+---
+
+## 📚 Formação
+
+🎓 **Bacharelado em Sistemas de Informação**  
+🗓️ Conclusão prevista: Dezembro de 2025
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Sinta-se à vontade para abrir issues, contribuir nos repositórios ou trocar uma ideia. Estou aberto a colaborações, freelas e oportunidades!
+
+---
