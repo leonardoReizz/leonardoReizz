@@ -28,8 +28,9 @@ Atualmente estou me aprofundando em:
 
 ## 📚 Formação
 
-🎓 **Bacharelado em Sistemas de Informação**  
-🗓️ Conclusão prevista: Dezembro de 2025
+🎓 **Bacharel em Sistemas de Informação**  
+🎓 **Pos Graduação em Engenharia de Software**  
+🗓️ Conclusão prevista: 2026
 
 ---
 
