@@ -12,7 +12,7 @@ Tenho atuado profissionalmente desde 2022, desenvolvendo **APIs escaláveis, mic
 - **Back-end**: Node.js, Express, Go (Golang), Python
 - **Bancos de Dados**: MongoDB, MySQL, PostgreSQL, Redis
 - **DevOps / Ferramentas**: Docker, Git, GitHub Actions, Kubernetes (básico)
-- **Outros**: WebSockets, JWT, REST APIs, arquitetura em microsserviços, integrações com pagamentos (PIX)
+- **Outros**: WebSockets, JWT, REST APIs, arquitetura em microsserviços, integrações com pagamentos, BullMQ
 
 ---
 
